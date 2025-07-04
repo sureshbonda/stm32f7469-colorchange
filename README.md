@@ -1,5 +1,3 @@
-I understand you'd like the content of the "Project README.md" Canvas as plain text, formatted for GitHub. Here it is:
-
 ```markdown
 # STM32F769 Discovery Board - Button Indicator with FreeRTOS & Qt for MCUs
 
