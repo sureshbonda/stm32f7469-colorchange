@@ -1,4 +1,3 @@
-```markdown
 # STM32F769 Discovery Board - Button Indicator with FreeRTOS & Qt for MCUs
 
 This repository contains the firmware and application code for a project demonstrating an indicator icon with color change on the STM32F769 Discovery board, triggered by a user button press. The project utilizes FreeRTOS for real-time task management on the embedded side and Qt for MCUs for the graphical user interface.
@@ -108,4 +107,3 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 ## License
 
 This project is open-source and available under the [Specify License, e.g., MIT License].
-```
